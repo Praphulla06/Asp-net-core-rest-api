@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IG8GDplGWzlUFeLgADq9tuH0jcTY6Adg+SXizZ/x8EQ=",
+  "Source": "TutApp.Api",
+  "BasePath": "_content/TutApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
