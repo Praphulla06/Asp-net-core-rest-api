@@ -23,3 +23,10 @@
 /mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/obj/Debug/net8.0/TutApp.Api.pdb
 /mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/obj/Debug/net8.0/TutApp.Api.genruntimeconfig.cache
 /mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/obj/Debug/net8.0/ref/TutApp.Api.dll
+/mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/obj/Debug/net8.0/TutApp.Api.sourcelink.json
+/mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/bin/Debug/net8.0/MinimalApis.Extensions.dll
+/mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/bin/Debug/net8.0/MiniValidation.dll
+/mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/obj/Debug/net8.0/TutApp.Api.csproj.AssemblyReference.cache
+/mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/obj/Debug/net8.0/TutApp.Api.MvcApplicationPartsAssemblyInfo.cs
+/mnt/sda1/Praphulla/C#/TutApp/TutApp.Api/obj/Debug/net8.0/TutApp.Api.csproj.CopyComplete
